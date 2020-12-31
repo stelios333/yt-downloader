@@ -1,2 +1,2 @@
 # yt-downloader
-Download youtube videos for free
+Download youtube videos as .mp4 for free.
